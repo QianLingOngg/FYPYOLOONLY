@@ -1,0 +1,1 @@
+it should appear that no more stock if it no more deals

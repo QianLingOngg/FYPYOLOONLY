@@ -1,0 +1,1 @@
+texture is bit sticky
